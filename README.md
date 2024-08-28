@@ -1,6 +1,6 @@
 ---
 
-[# Weather App](https://checkkweathertoday.netlify.app/)
+# [Weather App](https://checkkweathertoday.netlify.app/)
 
 ## Overview
 
